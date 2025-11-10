@@ -356,4 +356,4 @@ MIT License - feel free to use this project for your own applications.
 
 ---
 
-**Izere! 🚀**
+**Izee! 🚀**
